@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "tbd-homemaker-oxford",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A website showcasing the Homemaker Oxford project",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Nick Stokoe <git.nospam.wu-lee@noodlefactory.co.uk>",
   "dependencies": {
     "gatsby": "^2.24.50",
     "gatsby-image": "^2.4.16",
@@ -27,9 +27,9 @@
     "react-aspect-ratio": "^1.0.42"
   },
   "keywords": [
-    "gatsby"
+    "gatsby homelessness oxford transition-by-design"
   ],
-  "license": "0BSD",
+  "license": "AGPL-3.0-or-later",
   "scripts": {
     "build": "gatsby build --prefix-paths",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
@@ -42,9 +42,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/TransitionbyDesign/homemaker"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/TransitionbyDesign/homemaker/issues"
   }
 }
