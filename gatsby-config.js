@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Homemaker Oxford`,
+    description: `A report on homelessness in Oxford, by Transition By Design`,
+    author: `@transitionbyd`,
   },
   pathPrefix: "/homemaker",
   plugins: [
